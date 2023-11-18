@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # Python program showing
 # implementation of abstract
 # class through subclassing
