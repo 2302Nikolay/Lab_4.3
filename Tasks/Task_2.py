@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+Создать абстрактный базовый класс Pair с виртуальными арифметическими операциями.
+Создать производные классы Money (деньги) и Fraction (дробное число).
+"""
+
 
 from abc import ABC, abstractmethod
 
